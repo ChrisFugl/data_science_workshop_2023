@@ -7,7 +7,7 @@ Select the github tab as shown below:
 
 ![github tab](screenshots/github_tab.png)
 
-Ented this URL into the text field:
+Enter this URL into the text field:
 
 ``` txt
 https://github.com/ChrisFugl/data_science_workshop_2023/blob/main/Financial_market_predictions.ipynb
